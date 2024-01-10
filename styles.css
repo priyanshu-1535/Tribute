@@ -1,0 +1,62 @@
+.main {
+    height: 230vh;
+    width: 100vw;
+    background-color: rgba(40, 228, 40, 0.822);
+}
+center {
+    font-size: xx-large;
+   font-weight: 100;
+}
+b {
+    position: relative;
+    top: 25px;
+}
+.box {
+    height: 150vh;
+    width: 50vw;
+    border: 2px solid green ;
+    position: relative;
+    top: 80px; 
+    line-height: 30px;
+    box-shadow: 10px 15px 10px  greenyellow;
+    display: flex;
+    justify-content: start;
+}
+h5 {
+    color: white ;
+    position: relative;
+    top: 0;
+    text-shadow: 5px 5px 10px green;
+}
+li {
+    font-size: large ;
+    position : relative;
+    left: 0px;
+}
+td {
+    font-size: medium;
+    position: relative;
+    top: 35px;
+}
+.last {
+     position: relative;
+     top: 90px;
+     font-size: large;
+}
+img:hover {
+    transform: scale(1.1);
+}
+#quote {
+    position: relative;
+    top: 30px;
+    font-size: large;
+}
+img {
+  box-shadow: 10px 10px 20px ;
+}
+#line2 {
+    position: relative;
+    left: auto;
+}
+
+
